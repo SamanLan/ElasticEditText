@@ -4,4 +4,4 @@
 效果解析：就是一个输入框，当获取到焦点且内容为空时，输入框的下划线会根据你点击的位置跳动。
 废话不多说，先上效果图：
 
-![效果图](http://upload-images.jianshu.io/upload_images/1787089-e86e451b9802658d.gif?imageMogr2/auto-orient/strip)
+![效果图](http://i1.piimg.com/567571/fa1642d431852f7d.gif)
